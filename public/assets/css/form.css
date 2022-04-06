@@ -1,0 +1,47 @@
+.contacts2 {
+    max-width: 400px;
+}
+/*    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;*/
+form p {
+    margin: 0;
+    font-size: 0.813rem;
+}
+
+.custom-input-file2 {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    min-height: 15px;
+    overflow: hidden;
+    padding: 10px;
+    position: relative;
+    text-align: center;
+}
+
+.upload {
+    cursor: pointer;
+    text-align: center;
+}
+
+.custom-input-file .upload {
+    border: 100px solid transparent;
+    cursor: pointer;
+    font-size: 100px;
+    margin: 0;
+    opacity: 0;
+    outline: 0 none;
+    padding: 0;
+    position: absolute;
+    right: -1000px;
+    top: -1000px;
+}
+/*
+button:hover,
+button:focus {
+    background: rgb(192, 192, 190);
+    outline: 0;
+}*/

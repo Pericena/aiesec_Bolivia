@@ -1,0 +1,114 @@
+/*       <!--=============== CARTAS ===============-->*/
+
+.carts h1 {
+    color: rgb(3, 3, 3);
+    text-align: center;
+    font-size: 25px;
+}
+
+.carts p {
+    color: rgb(3, 3, 3);
+    text-align: center;
+    font-size: 1px;
+    padding: 2%;
+}
+
+.carts_table {
+    column-count: 3;
+    -webkit-column-count: 3;
+    -webkit-column-width: 1500px;
+    -moz-column-width: 1500px;
+    column-width: 200px;
+    -moz-column-count: 1;
+    -webkit-column-gap: 1em;
+    -moz-column-gap: 1em;
+    column-gap: 1em;
+}
+
+.carts_column1 {
+    width: auto;
+    height: 350px;
+    background-color: #f85a40;
+    text-align: center;
+}
+
+.carts_column2 {
+    width: auto;
+    height: 350px;
+    background-color: #0cb9c1;
+    text-align: center;
+}
+
+.carts_column3 {
+    width: auto;
+    height: 350px;
+    background-color: #f48924;
+    text-align: center;
+}
+
+button {
+    color: #ffffff;
+    font-size: 16px;
+    background-color: transparent;
+    width: 150px;
+    height: 50px;
+    border: #ffffff 2px solid;
+}
+
+.carts_table p {
+    text-align: center;
+    font-size: 12px;
+    color: #ffffff;
+}
+
+
+/*       <!--=============== CARTAS ===============-->*/
+
+
+/* <!--=============== FUNCIONES ===============-->*/
+
+.functions h1 {
+    color: rgb(3, 3, 3);
+    text-align: center;
+    font-size: 18px;
+    padding: 2%;
+}
+
+.section_table {
+    column-count: 5;
+    -webkit-column-count: 5;
+    -webkit-column-width: 1500px;
+    -moz-column-width: 1500px;
+    column-width: 200px;
+    -moz-column-count: 1;
+    -webkit-column-gap: 1em;
+    -moz-column-gap: 1em;
+    column-gap: 1em;
+}
+
+.section_column {
+    width: 230px;
+    height: 220px;
+    border: rgb(3, 3, 3) 0px solid;
+}
+
+.section_column h1 {
+    color: rgb(3, 3, 3);
+    text-align: center;
+    font-size: 16px;
+}
+
+.section_table p {
+    color: rgb(3, 3, 3);
+    text-align: center;
+    font-size: 12px;
+}
+
+.spam_icon {
+    color: rgb(35, 166, 218);
+    text-align: center;
+    font-size: 50px;
+}
+
+
+/* <!--=============== FUNCIONES ===============-->*/
